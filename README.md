@@ -1,1 +1,2 @@
-# WDD 330 - J. Barrera
+# WDD330
+BYUI WDD330 Portfolio repository

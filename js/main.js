@@ -7,6 +7,18 @@
       label: "Week 01 Notes",
       url: "week1/notes.html"
     },  
+    {
+      label: "Week 02 Notes",
+      url: "week2/notes.html"
+    },    
+    {
+      label: "Week 02 Application",
+      url: "quiz/indexch4.html"
+    },
+    {
+      label: "Week 02 Team Exercise",
+      url: "week2/teamexercise.html"
+    },    
   ];
   
   const orderedlist = document.querySelector("ol");

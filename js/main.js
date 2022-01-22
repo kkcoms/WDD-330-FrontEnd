@@ -18,7 +18,23 @@
     {
       label: "Week 02 Team Exercise",
       url: "week2/teamexercise.html"
-    },    
+    }, 
+    {
+      label: "Week 03 Notes",
+      url:  "week3/notes.html"
+    },
+     {
+      label: "Week 03 Application 01",
+      url:  "week3/notes.html"
+    },
+     {
+      label: "Week 03 Application 02",
+      url: "quiz/indexch6.html"
+    },
+     {
+      label: "Week 03 Team Exercise",
+      url: "week3/teamexercise.html"
+    },   
   ];
   
   const orderedlist = document.querySelector("ol");
